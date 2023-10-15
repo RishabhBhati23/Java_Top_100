@@ -10,6 +10,7 @@ class problem25{
 
        
         }
+        //check is abundant or not.
 
              if(sum>n){
                 System.out.println("n is abundant.");
